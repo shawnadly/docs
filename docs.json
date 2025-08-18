@@ -24,7 +24,7 @@
         "group": "New User Guide",
         "icon": "lightbulb",
         "pages": [
-          "new-user/overview",
+          "index",
           "new-user/key-elements",
           "new-user/quick-start"
         ]
