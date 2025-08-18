@@ -99,8 +99,7 @@
         "icon": "shield-check",
         "pages": [
           "legal/privacy-policy",
-          "legal/security-overview",
-          "legal/terms-and-conditions"
+          "legal/terms-of-service"
         ]
       }
     ]
