@@ -43,7 +43,7 @@
         "icon": "sparkles",
         "pages": [
           "writing/autocomplete",
-          "writing/use-ai"
+          "writing/use-AI"
         ]
       },
       {
@@ -90,7 +90,7 @@
         "group": "Help & Community",
         "icon": "users",
         "pages": [
-          "help/feedback-and-feature-requests",
+          "help/feedback-&-feature-requests",
           "help/follow-us"
         ]
       },
