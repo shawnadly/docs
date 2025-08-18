@@ -14,7 +14,7 @@
   "navigation": {
     "global": {
       "anchors": [
-        { "anchor": "Open SparkDoc", "href": "https://www.sparkdoc.com", "icon": "rocket" },
+        { "anchor": "Open Sparkdoc", "href": "https://www.sparkdoc.com", "icon": "rocket" },
         { "anchor": "Blog", "href": "https://www.sparkdoc.com/blog", "icon": "newspaper" },
         { "anchor": "Contact us", "href": "mailto:support@sparkdoc.com", "icon": "mail" }
       ]
@@ -43,7 +43,7 @@
         "icon": "sparkles",
         "pages": [
           "writing/autocomplete",
-          "writing/use-Ai"
+          "writing/use-ai"
         ]
       },
       {
@@ -83,13 +83,14 @@
         "icon": "megaphone",
         "pages": [
           "release-notes/whats-new",
+          "release-notes/known-limitations"
         ]
       },
       {
         "group": "Help & Community",
         "icon": "users",
         "pages": [
-          "help/feedback-&-feature-requests",
+          "help/feedback-and-feature-requests",
           "help/follow-us"
         ]
       },
@@ -116,7 +117,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Open app",
+      "label": "Open SparkDoc",
       "href": "https://www.sparkdoc.com"
     }
   },
