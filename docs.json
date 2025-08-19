@@ -7,14 +7,12 @@
     "light": "#ACD6B5",
     "dark": "#3DA955"
   },
-  "favicon": "/favicon.svg",
-
   "icons": { "library": "lucide" },
 
   "navigation": {
     "global": {
       "anchors": [
-        { "anchor": "Open Sparkdoc", "href": "https://www.sparkdoc.com", "icon": "rocket" },
+        { "anchor": "Open SparkDoc", "href": "https://www.sparkdoc.com", "icon": "rocket" },
         { "anchor": "Blog", "href": "https://www.sparkdoc.com/blog", "icon": "newspaper" },
         { "anchor": "Contact us", "href": "mailto:support@sparkdoc.com", "icon": "mail" }
       ]
@@ -106,8 +104,14 @@
   },
 
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "https://docs.sparkdoc.com/logo/light.svg",
+    "dark": "https://docs.sparkdoc.com/logo/dark.svg",
+    "href": "https://docs.sparkdoc.com/"
+  },
+
+  "favicon": {
+    "light": "https://docs.sparkdoc.com/logo/favicon.svg",
+    "dark": "https://docs.sparkdoc.com/logo/favicon.svg"
   },
 
   "navbar": {
