@@ -104,13 +104,13 @@
   },
 
   "logo": {
-    "light": "https://docs.sparkdoc.com/logo/light.svg",
-    "dark": "https://docs.sparkdoc.com/logo/dark.svg",
+    "light": "logo/light.svg",
+    "dark": "logo/dark.svg",
     "href": "https://docs.sparkdoc.com/"
   },
 
   "favicon": {
-    "light": "https://docs.sparkdoc.com/logo/favicon.svg",
+    "light": "logo/favicon.svg",
     "dark": "https://docs.sparkdoc.com/logo/favicon.svg"
   },
 
