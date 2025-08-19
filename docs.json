@@ -51,8 +51,8 @@
           "citations/add-in-text",
           "citations/search-and-filters",
           "citations/custom-citation",
-          "citations/multi-citation",
-          "citations/styles",
+          "styles",
+          "styles",
           "citations/references"
         ]
       },
@@ -104,14 +104,14 @@
   },
 
   "logo": {
-    "light": "logo/logo-light-png.png",
-    "dark": "logo/logo-dark-png.png",
+    "light": "/logo/logo-light-png.png",
+    "dark": "/logo/logo-dark-png.png",
     "href": "https://docs.sparkdoc.com/"
   },
 
   "favicon": {
-    "light": "logo/fav-png.png",
-    "dark": "logo/fav-png.png"
+    "light": "/logo/fav-png.png",
+    "dark": "/logo/fav-png.png"
   },
 
   "navbar": {
