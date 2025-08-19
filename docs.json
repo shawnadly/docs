@@ -13,7 +13,7 @@
     "global": {
       "anchors": [
         { "anchor": "Open SparkDoc", "href": "https://www.sparkdoc.com", "icon": "rocket" },
-        { "anchor": "Blog", "href": "https://www.sparkdoc.com/blog", "icon": "newspaper" },
+        { "anchor": "Blog", "href": "https://www.sparkdoc.com/resources", "icon": "newspaper" },
         { "anchor": "Contact us", "href": "mailto:support@sparkdoc.com", "icon": "mail" }
       ]
     },
@@ -51,8 +51,7 @@
           "citations/add-in-text",
           "citations/search-and-filters",
           "citations/custom-citation",
-          "styles",
-          "styles",
+          "citations/styles",
           "citations/references"
         ]
       },
