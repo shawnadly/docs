@@ -110,8 +110,8 @@
   },
 
   "favicon": {
-    "light": "logo/favicon.svg",
-    "dark": "https://docs.sparkdoc.com/logo/favicon.svg"
+    "light": "logo/fav-png.png",
+    "dark": "logo/fav-png.png"
   },
 
   "navbar": {
